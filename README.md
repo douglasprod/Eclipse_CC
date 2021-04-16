@@ -39,3 +39,6 @@ You can try doesn't use Eclipse Core and connect CharacterCreation for your fram
 | ClientEvent | Data | Description |
 | --- | --- | --- |
 | `ECLIPSE:StartCharactersCreation`| string, string | This event you need triggered when you want start character select. You need send two array. CharacterInfo https://pastebin.com/jEm4wrBM and CharacterData(for spawn ped). Correct example: ECLIPSE:StartCharactersCreation(charactersInfo, charactersData) |
+
+
+For more question, help write me is Discrord. douglasprod@6686
