@@ -1,7 +1,7 @@
 # Eclipse_CC
 Eclipse CORE | Character Creation documentation
 
-1. Put Eclipse_Core && Eclipse_CC in your resource directory
+1. Put `Eclipse_Core` && `Eclipse_CC` in your resource directory
 
 | Command | Description |
 | --- | --- |
