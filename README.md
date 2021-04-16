@@ -11,6 +11,8 @@ Eclipse CORE | Character Creation documentation
 | `ensure eclipse_CC` | just add it ;/ |
 
 3. MySql settings (resources\eclipse_Core\config\database.json)
+
+
   ![1](https://user-images.githubusercontent.com/36680471/114997401-759f4a80-9ea8-11eb-8b81-ba096d1c6e6b.PNG)
   
 2. 
