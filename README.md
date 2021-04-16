@@ -2,7 +2,9 @@
 Eclipse CORE | Character Creation documentation
 
 1. Put `Eclipse_Core` && `Eclipse_CC` in your resource directory
-2. Add ensure in your `server.cfg
+2. Add ensure in your `server.cfg`
+
+
 | Command | Description |
 | --- | --- |
 | `ensure eclipse_Core` | You must ensure this resource the first |
