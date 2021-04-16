@@ -18,7 +18,7 @@ Eclipse CORE | Character Creation documentation
 4. Turn on Mysql 
 5. Load dump database in your mysql client  
 [dump.zip](https://github.com/douglasprod/Eclipse_CC/files/6323759/dump.zip)
-6. Change NUI language in `resources\eclipse_CC\config`. You can choose EN(English) and RU(Russian), for now
+6. Change NUI language in `resources\eclipse_CC\config\config.json`. You can choose EN(English) and RU(Russian), for now
 
 ![image](https://user-images.githubusercontent.com/36680471/114999878-ea738400-9eaa-11eb-8f45-7a1fcdf928db.png)
 
