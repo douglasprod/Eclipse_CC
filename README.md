@@ -30,7 +30,7 @@ Eclipse CORE | Character Creation documentation
 `API`
 You can try doesn't use Eclipse Core and connect CharacterCreation for your framework(vRP, Esx, etc..)
 
-| ServerEvent | Description |
-| --- | --- |
-| `ECLIPSE:CreateCharacter` | This event triggered when you create your character. You get CharacterData https://pastebin.com/uD4EUVC5 and CharacterCloth https://pastebin.com/Npe1MEnK. You need diserialize(decode) it on server-side  |
-| `ensure eclipse_CC` | just add it ;/ |
+| ServerEvent | Data | Description |
+| --- | --- | --- |
+| `ECLIPSE:CreateCharacter`| string, string | This event triggered when you create your character. You get CharacterData https://pastebin.com/uD4EUVC5 and CharacterCloth https://pastebin.com/Npe1MEnK. You need diserialize(decode) it on server-side  |
+| `ECLIPSE:LoadCharacter` | int | It triggered when you choose character. It sends character id |
