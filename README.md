@@ -34,3 +34,8 @@ You can try doesn't use Eclipse Core and connect CharacterCreation for your fram
 | --- | --- | --- |
 | `ECLIPSE:CreateCharacter`| string, string | This event triggered when you create your character. You get CharacterData https://pastebin.com/uD4EUVC5 and CharacterCloth https://pastebin.com/Npe1MEnK. You need diserialize(decode) it on server-side  |
 | `ECLIPSE:LoadCharacter` | int | It triggered when you choose character. It sends character id |
+| `ECLIPSE:LoadCharactersList` | - | It triggered when you first spawn. You need make array with CharacterInfo https://pastebin.com/jEm4wrBM and CharacterData(for spawn ped) https://pastebin.com/uD4EUVC5 and than you need trigger client event `ECLIPSE:StartCharactersCreation` |
+
+| ClientEvent | Data | Description |
+| --- | --- | --- |
+| `ECLIPSE:StartCharactersCreation`| string, string | This event you need triggered when you want start character select. You need send two array. CharacterInfo https://pastebin.com/jEm4wrBM and CharacterData(for spawn ped). Correct example: ECLIPSE:StartCharactersCreation(charactersInfo, charactersData) |
