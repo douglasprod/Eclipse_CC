@@ -21,5 +21,6 @@ Eclipse CORE | Character Creation documentation
 6. Change NUI language in `resources\eclipse_CC\config`. You can choose EN(English) and RU(Russian), for now
 
 ![image](https://user-images.githubusercontent.com/36680471/114999878-ea738400-9eaa-11eb-8f45-7a1fcdf928db.png)
+
 7. Start your server
 8. Enjoy!
